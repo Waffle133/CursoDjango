@@ -1,6 +1,0 @@
-# Environments
-.env
-.venv
-venv/
-# IDE Stuff
-.idea/
